@@ -73,7 +73,7 @@ Ces visualisations issues des données nous permettent de rapidement faire un co
 
 Akkerman, A., Mudde, C., & Zaslove, A. (2014). 'How Populist Are the People? Measuring Populist Attitudes in Voters'. _Comparative Political Studies_, 47(9), 1324–1353.
 
-Maestas, C. (2015). _Expert surveys as a measurement tool: Challenges and new frontiers._
+Maestas, C. (2018). 'Expert surveys as a measurement tool: Challenges and new frontiers'  in Alvarez, MR & Atkeson, LR eds. _Handbook of Polling and Polling Methods_. Oxford: Oxford University Press.
 
 March, L. (2012). _Radical Left Parties in Europe_. London: Routledge.
 
@@ -81,11 +81,11 @@ Meijers, M. J., & Zaslove, A. (2021). Measuring Populism in Political Parties: A
 
 Moffitt, B., & Tormey, S. (2014). ‘Rethinking populism: Politics, mediatisation and political style’. _Political Studies_, 62(2), 381-97.
 
-Mudde, C. 'Populism: An Ideational Approach' _The Oxford Handbook of Populism_(2017) p. 27 – 47
-
 Mudde, C. (2004). 'The Populist Zeitgeist.' _Government and Opposition_, 39(4), 541-563.
 
 Mudde, C. (2007). _Populist Radical Right Parties in Europe_. Cambridge: Cambridge University Press.
+
+Mudde, C. (2017) 'Populism: An Ideational Approach' _The Oxford Handbook of Populism_ p. 27 – 47
 
 Rooduijn, M., Van Kessel, S., Froio, C., Pirro, A., De Lange, S., Halikiopoulou, D., Lewis, P., Mudde, C. & Taggart, P. (2019). The PopuList: An Overview of Populist, Far Right, Far Left and Eurosceptic Parties in Europe. www.popu-list.org.
 
