@@ -19,6 +19,8 @@ Le problème dans ce domaine d’études est qu’il n’existe pas un consensus
 
 Malgré le manque d’un consensus, il y a une définition qui connaît plus de popularité depuis ces dernières années, à savoir celle du populisme en tant qu’idéologie. Nommé la définition « idéationnelle », cette conceptualisation soutient que le populisme est « une idéologie peu substantielle qui considère que la société se divise en deux camps homogènes et antagonistes, le ‘peuple pur’ et ‘l’élite corrompue’, et qui affirme que la politique devrait être l’expression de la volonté générale du peuple. » (Mudde 2004) 
 
+>‘Tous ces travaux basés sur l'approche idéationnelle fixent le populisme comme une composante idéologique permanente stable des partis. Au fond, le populisme serait dans la nature idéologique de ces partis au même titre que leur socialisme, leur nativisme ou leur libéralisme économique. Pour beaucoup d'auteurs qui ont une autre approche ontologique du populisme, cette caractéristique fixe n'est pas une donnée de la réalité sociale et politique’.
+
 **Extrême-droite:**
 
 Les partis qui sont nativistes et autoritaires. Le nativisme est défini comme une idéologie qui considère que les états devraient être habités exclusivement par les personnes indigènes et que des personnes non-indigènes présentent une menace fondamentale à l’état-nation homogène. Par ailleurs, l’autoritarisme est défini comme la croyance en une société strictement ordonnée, dans laquelle les infractions doivent être sévèrement punies. (Mudde 2007)
@@ -51,7 +53,12 @@ Sur le caractère binaire, l’indicateur arrête la vision qu’on a d’un par
 
 La deuxième critique est que la PopuList ne prend en considération qu’une seule définition du Populisme, ce que l’on appelle la définition idéationnelle du Populisme. C’est-à-dire que la Populist approche le phénomène populiste avec une définition qui ne peut agréger toutes les subtilités du mouvement. En effet, elle considère le populisme comme une entité homogène qui met au centre l’opposition peuple élite, le manichéisme et la souveraineté populaire. La popuList tente alors de mesurer un phénomène à partir d’une définition qui ne prend en considération que quelques dimensions, et qui n’arrive donc pas à retranscrire la réalité des choses.
 
+Une troisième critique que l'on pourrait formuler à l'encontre de la PopuList est le caractère figé dans le temps du tableau qu'elle dresse. En l'absence d'indicateurs temporels, elle occulte l'évolution dans le temps de la rhétorique et l'idéologie de ces partis. C'est le cas de Rassemblement National qui a modéré plusieurs aspects de son discours, notamment son euroscepticisme.
+
+>‘Le populisme est caméléon, il peut évoluer et s'adapter. Si on prend la campagne présidentielle française de 2022, on voit bien comment des acteurs à priori populiste, Jean Luc Mélenchon et Marine le Pen, ont réinterprété et fait évoluer leur populisme. C'est quelque chose qu'un outil comme la PopuList, ou tout autre outil ne peut pas appréhender’.
+
 Le populisme peut-être une stratégie, un type de discours, ou une façon de communiquer, le concept est très malléable. Prétendre représenter le Populisme comme phénomène à partir de la définition idéationnelle serait donc réducteur.
+> ‘ L'alternative est la suivante : s’appuyer sur des experts qui vont analyser le programme et le discours des partis, ou s’appuyer sur les partis eux-mêmes pour faire émerger le populisme comme objet d'étude’.
 
 ## V: Visualisations
 
