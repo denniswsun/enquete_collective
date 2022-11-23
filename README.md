@@ -10,12 +10,12 @@ Le problème dans ce domaine d’études est qu’il n’existe pas un consensus
 
 Malgré le manque d’un consensus, il y a une définition qui connaît plus de popularité depuis ces dernières années, à savoir celle du populisme en tant qu’idéologie. Nommé la définition « idéationnelle », cette conceptualisation soutient que le populisme est « une idéologie peu substantielle qui considère que la société se divise en deux camps homogènes et antagonistes, le ‘peuple pur’ et ‘l’élite corrompue’, et qui affirme que la politique devrait être l’expression de la volonté générale du peuple. » (Mudde 2018) 
 
-**Extrême-droite: **
+**Extrême-droite:**
 
 Les partis qui sont nativistes et autoritaires. Le nativisme est défini comme une idéologie qui considère que les états devraient être habités exclusivement par les personnes indigènes et que des personnes non-indigènes présentent une menace fondamentale à l’état-nation homogène. Par ailleurs, l’autoritarisme est défini comme la croyance en une société strictement ordonnée, dans laquelle les infractions doivent être sévèrement punies. (Mudde 2007)
 
 
-**Extrême-gauche: **
+**Extrême-gauche:**
 Les partis qui rejettent la structure socio-économique sous-jacente du capitalisme contemporain et qui prônent des structures économiques et politiques alternatives. Ils considèrent l’inégalité économique comme la base de la société actuelle et font appel à une forte redistribution des ressources des élites politiques. (March 2012)
 
 **Eurosceptique**
