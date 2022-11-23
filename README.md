@@ -62,14 +62,19 @@ Ces visualisations issues des données nous permettent de rapidement faire un co
 ## Bibliographie :
 
 Maestas, C. (2015). Expert surveys as a measurement tool: Challenges and new frontiers.
+
 March, L. (2012). Radical Left Parties in Europe. London: Routledge.
+
 Meijers, M. J., & Zaslove, A. (2021). Measuring Populism in Political Parties: Appraisal of a New Approach. Comparative Political Studies, 54(2), 372–407. https://doi.org/10.1177/0010414020938081
 
 Mudde, C. "Populism: An Ideational Approach" OxfordThe Oxford Handbook of Populism (2017) p. 27 – 47
+
 Mudde, C. (2004). The Populist Zeitgeist. Government and Opposition, 39(4), 541-563.
+
 Mudde, C. (2007). Populist Radical Right Parties in Europe. Cambridge: Cambridge University Press.
+
 Rooduijn, M., Van Kessel, S., Froio, C., Pirro, A., De Lange, S., Halikiopoulou, D., Lewis, P., Mudde, C. & Taggart, P. (2019). The PopuList: An Overview of Populist, Far Right, Far Left and Eurosceptic Parties in Europe. www.popu-list.org.
+
 Taggart, P., & Szczerbiak, A. (2004). Contemporary Euroscepticism in the party systems of the European Union candidate states of Central and Eastern Europe. European Journal of Political Research, 43(1), 1-27.
-![image](https://user-images.githubusercontent.com/117831307/203575726-23266d32-830a-4a61-90dd-07aec23608d4.png)
 
 
