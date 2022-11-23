@@ -46,4 +46,4 @@ Le populisme peut-être une stratégie, un type de discours, ou une façon de co
 
 Les données de la PopuList représentent concrètement, à travers les choix nécessairement subjectifs de ses auteurs, une classification de différents partis populistes, extrêmes, ou du moins sortant du cadre conventionnel. Ces partis peuvent notamment de quantifier et de visualiser certains aspects du paysage politique européen actuel.
 
-![2231-007](https://user-images.githubusercontent.com/115630365/203572237-c3b29f72-725d-48b5-8819-8a49702fc842.jpg)
+
