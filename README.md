@@ -3,7 +3,7 @@
 ## Contenus:
 
 1. [Introduction](https://github.com/denniswsun/enquete_collective/edit/main/README.md#i-introduction)
-2. [Catégories representés dans la PopuList](https://github.com/denniswsun/enquete_collective/edit/main/README.md#ii-cat%C3%A9gories-represent%C3%A9s-dans-la-populist)
+2. [Catégories representées dans la PopuList](https://github.com/denniswsun/enquete_collective/edit/main/README.md#ii-cat%C3%A9gories-represent%C3%A9s-dans-la-populist)
 3. [Usages](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iii-usages)
 4. [Limites et critiques](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iv-limites-et-critiques)
 5. [Visualisations](https://github.com/denniswsun/enquete_collective/edit/main/README.md#v-visualisations)
@@ -11,11 +11,11 @@
 
 ## I: Introduction 
 
-Ce jeu de données est le résultat d’une collaboration entre le journal anglais The Guardian et 35 politologues européens. Suite aux événements tels que l'élection de Donald Trump en et le référendum de Brexit en 2016, le populisme devient de plus en plus l’objet de discussions dans le champ politique. En 2019, The Guardian a rassemblé des politologues étudiants le populisme pour créer une liste des partis politiques populistes en Europe. Nous avons interviewé Gilles Ivaldi, spécialiste du populisme et un des contributeurs de la PopuList. Les citations viennent de cet entretien. 
+Ce jeu de données est le résultat d’une collaboration entre le journal anglais The Guardian et 35 politologues européens. A la suite d'événements tels que l'élection de Donald Trump et le référendum du Brexit en 2016, le populisme devient de plus en plus l’objet de discussions dans le champ politique. En 2019, The Guardian a rassemblé des politologues étudiant le populisme pour créer une liste des partis politiques populistes en Europe. Nous avons interviewé Gilles Ivaldi, spécialiste du populisme et un des contributeurs de la PopuList. Les citations viennent de cet entretien. 
 
 ## II: Catégories representées dans la PopuList
 
-Le problème dans ce domaine d’études est qu’il n’existe pas un consensus autour de la définition du populisme. Dans quasiment chaque article, étude, livre sur ce sujet, nous pouvons constater la phrase: « le populisme est un concept essentiellement contesté » (Mudde, 2004; Moffitt & Tormey 2014; Akkerman et al. 2014). Jusqu’à présent, la plupart des études se servent d’une des quatres différentes conceptualisations de populisme: populisme en tant qu’idéologie, populisme en tant que discours, populisme en tant que stratégie et populisme en tant que style politique. Evidemment, les distinctions sont très importantes pour la catégorisation des partis et politiciens. Par exemple, il y a de nombreux leaders politiques qui utilisent un style que nous pouvons reconnaître comme « populiste » sans être forcément adhérent à une telle idéologie (Moffitt & Tormey (2014) citent comme exemples Tony Blair et George W Bush). Nous pourrions même dire que le domaine d’études populistes subit sa propre « crise de catégorisation ». 
+Le problème dans ce domaine d’études est qu’il n’existe pas de consensus autour de la définition du populisme. Dans quasiment chaque article, étude, livre sur ce sujet, nous pouvons trouver une phrase telle que : « le populisme est un concept essentiellement contesté » (Mudde, 2004; Moffitt & Tormey 2014; Akkerman et al. 2014). Jusqu’à présent, la plupart des études se servent d’une de ces quatres différentes conceptualisations de populisme : populisme en tant qu’idéologie, populisme en tant que discours, populisme en tant que stratégie et populisme en tant que style politique. Evidemment, les distinctions sont très importantes pour la catégorisation des partis et politiciens. Par exemple, il y a de nombreux leaders politiques qui utilisent un style que nous pouvons reconnaître comme « populiste » sans nécessairement adhérer à une telle idéologie (Moffitt & Tormey (2014) citent comme exemples Tony Blair et George W Bush). Nous pourrions même dire que le domaine d’études populistes subit sa propre « crise de catégorisation ». 
 
 Malgré le manque d’un consensus, il y a une définition qui connaît plus de popularité depuis ces dernières années, à savoir celle du populisme en tant qu’idéologie. Nommé la définition « idéationnelle », cette conceptualisation soutient que le populisme est « une idéologie peu substantielle qui considère que la société se divise en deux camps homogènes et antagonistes, le ‘peuple pur’ et ‘l’élite corrompue’, et qui affirme que la politique devrait être l’expression de la volonté générale du peuple. » (Mudde 2004) 
 
@@ -23,7 +23,7 @@ Malgré le manque d’un consensus, il y a une définition qui connaît plus de 
 
 **Extrême-droite:**
 
-Les partis qui sont nativistes et autoritaires. Le nativisme est défini comme une idéologie qui considère que les états devraient être habités exclusivement par les personnes indigènes et que des personnes non-indigènes présentent une menace fondamentale à l’état-nation homogène. Par ailleurs, l’autoritarisme est défini comme la croyance en une société strictement ordonnée, dans laquelle les infractions doivent être sévèrement punies. (Mudde 2007)
+Les partis nativistes et autoritaires. Le nativisme est défini comme une idéologie qui considère que les états devraient être habités exclusivement par les personnes indigènes et que des personnes non-indigènes présentent une menace fondamentale à l’état-nation homogène. Par ailleurs, l’autoritarisme est défini comme la croyance en une société strictement ordonnée, dans laquelle les infractions doivent être sévèrement punies. (Mudde 2007)
 
 
 **Extrême-gauche:**
@@ -32,12 +32,12 @@ Les partis qui rejettent la structure socio-économique sous-jacente du capitali
 
 **Eurosceptique:**
 
-Les partis qui sont contre le processus de l’intégration européenne. Cela peut prendre forme d’un euroscepticisme dur (la volonté de retirer un état de l’UE ou ne pas en devenir membre) ou plutôt doux (l’opposition contre plus d’intégration européenne). (Taggart and Sczcerbiak 2004)
+Les partis qui sont contre le processus de l’intégration européenne. Cela peut prendre forme d’un euroscepticisme dur (la volonté de retirer un état de l’UE ou ne pas en devenir membre) ou plutôt doux (l’opposition à une plus forte intégration européenne). (Taggart and Sczcerbiak 2004)
 
 ## III: Usages
 
-La PopuList est une des façons qui a été imaginée pour développer une base commune d'évaluation du degré de populisme au sein des partis politiques en Europe. Elle cherche à fournir un outil méthodologique à tous les chercheurs et chercheuses qui s’intéressent au phénomène populiste.  Elle permet d’adresser des questions comme quels sont les partis populistes en Europe ?  A quels types de caractéristiques idéologiques ce populisme est-il associé ?
-C’est un outil méthodologique qui est voué à répondre à des questions de recherche sur le populisme en proposant une taxinomie de ce même phénomène.  Il est essentiellement empirique, Il permet une porte d'entrée sur l'étude des partis populistes. Par exemple, sur le rapport entre la guerre d’Ukraine et la popularité des partis populistes.
+La PopuList est une des façons qui ont été imaginées pour développer une base commune d'évaluation du degré de populisme au sein des partis politiques en Europe. Elle cherche à fournir un outil méthodologique à tous les chercheurs et chercheuses qui s’intéressent au phénomène populiste.  Elle permet d’adresser des questions comme : quels sont les partis populistes en Europe ?  à quels types de caractéristiques idéologiques ce populisme est-il associé ?
+C’est un outil méthodologique qui est voué à répondre à des questions de recherche sur le populisme en proposant une taxinomie de ce même phénomène.  Il est essentiellement empirique, il permet une porte d'entrée sur l'étude des partis populistes. Par exemple, sur le rapport entre la guerre d’Ukraine et la popularité des partis populistes.
 
 L’idée principale derrière la PopuList est d’avoir un outil méthodologique suffisamment cohérent théoriquement, mais surtout à disposition de toute la communauté scientifique qui leur permet de se poser des questions de recherches, sur de mêmes bases, et donc permettre la comparaison et la réplicabilité de leurs travaux.
 
@@ -51,7 +51,7 @@ Sur le caractère binaire, l’indicateur arrête la vision qu’on a d’un par
 
 >‘Cette approche très binaire est puissante puisqu'elle permet d'avoir des catégories très fortes, de la simplicité et de l'efficacité, mais elle empêche d'appréhender une zone grise entre ces catégories de partis qui sont à mi-chemin finalement entre le populisme et le non-populisme'.
 
-La deuxième critique est que la PopuList ne prend en considération qu’une seule définition du Populisme, ce que l’on appelle la définition idéationnelle du Populisme. C’est-à-dire que la Populist approche le phénomène populiste avec une définition qui ne peut agréger toutes les subtilités du mouvement. En effet, elle considère le populisme comme une entité homogène qui met au centre l’opposition peuple élite, le manichéisme et la souveraineté populaire. La popuList tente alors de mesurer un phénomène à partir d’une définition qui ne prend en considération que quelques dimensions, et qui n’arrive donc pas à retranscrire la réalité des choses.
+La deuxième critique est que la PopuList ne prend en considération qu’une seule définition du populisme, ce que l’on appelle la définition idéationnelle. C’est-à-dire que la Populist approche le phénomène populiste avec une définition qui ne peut agréger en toutes les subtilités. En effet, elle considère le populisme comme une entité homogène qui met au centre l’opposition peuple/élite, le manichéisme et la souveraineté populaire. La PopuList tente alors de mesurer un phénomène à partir d’une définition qui ne prend en considération que quelques dimensions, et qui n’arrive donc pas à retranscrire l'entière réalité des choses.
 
 >‘Le dernier élément que l'on pourrait évoquer est un peu plus ontologique, il touche tous les travaux empiriques sur le populisme, c'est la question de savoir ce qu'est le populisme avant de vouloir le représenter’.
 
@@ -59,7 +59,7 @@ Une troisième critique que l'on pourrait formuler à l'encontre de la PopuList 
 
 >‘Le populisme est caméléon, il peut évoluer et s'adapter. Si on prend la campagne présidentielle française de 2022, on voit bien comment des acteurs à priori populiste, Jean Luc Mélenchon et Marine le Pen, ont réinterprété et fait évoluer leur populisme. C'est quelque chose qu'un outil comme la PopuList, ou tout autre outil ne peut pas appréhender’.
 
-Le populisme peut-être une stratégie, un type de discours, ou une façon de communiquer, le concept est très malléable. Prétendre représenter le Populisme comme phénomène à partir de la définition idéationnelle serait donc réducteur.
+Le populisme peut-être une stratégie, un type de discours, ou une façon de communiquer, le concept est très malléable. Prétendre représenter le populisme comme phénomène à partir de la définition idéationnelle serait donc réducteur.
 > ‘ L'alternative est la suivante : s’appuyer sur des experts qui vont analyser le programme et le discours des partis, ou s’appuyer sur les partis eux-mêmes pour faire émerger le populisme comme objet d'étude’.
 
 ## V: Visualisations
