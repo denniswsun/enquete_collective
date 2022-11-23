@@ -1,5 +1,14 @@
 # Enquête collective: The PopuList
 
+## Contenus:
+
+1. [Introduction](https://github.com/denniswsun/enquete_collective/edit/main/README.md#i-introduction)
+2. [Catégories representés dans la PopuList](https://github.com/denniswsun/enquete_collective/edit/main/README.md#ii-cat%C3%A9gories-represent%C3%A9s-dans-la-populist)
+3. [Usages](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iii-usages)
+4. [Limites et critiques](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iv-limites-et-critiques)
+5. [Visualisations](https://github.com/denniswsun/enquete_collective/edit/main/README.md#v-visualisations)
+
+
 ## I: Introduction 
 
 Ce jeu de données est le résultat d’une collaboration entre le journal anglais The Guardian et 35 politologues européens. Suite aux événements tels que l'élection de Donald Trump en et le référendum de Brexit en 2016, le populisme devient de plus en plus l’objet de discussions dans le champ politique. En 2019, The Guardian a rassemblé des politologues étudiants le populisme pour créer une liste des partis politiques populistes en Europe.
@@ -55,7 +64,8 @@ Ainsi ce graphique (crée par nous à partir des données) nous permet notamment
 
 ![Rplot](https://user-images.githubusercontent.com/115630365/203574030-5718b060-a203-4df9-ae43-ed5affb1585c.png)
 
-Ces visualisations issues des données nous permettent de rapidement faire un comparatif de l'évolution des partis populistes en Europe, et de constater que ce phenomène est protéiforme : ainsi, le developpement du populisme en Allemagne est entierement different de ce qu'on observe en France, en matiere de couleur politique de ces formations politiques.
+Ces visualisations issues des données nous permettent de rapidement faire un comparatif de l'évolution des partis populistes en Europe, et de constater que ce phenomène est protéiforme : ainsi, le développement du populisme en Allemagne est entièrement différent de ce qu'on observe en France, en matière de couleur politique de ces formations politiques.
+
 ## Entretien avec Gilles Ivaldi spécialiste du Populisme, et contributeur à la PopuList :
 
 
