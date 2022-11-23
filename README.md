@@ -46,4 +46,14 @@ Le populisme peut-être une stratégie, un type de discours, ou une façon de co
 
 Les données de la PopuList représentent concrètement, à travers les choix nécessairement subjectifs de ses auteurs, une classification de différents partis populistes, extrêmes, ou du moins sortant du cadre conventionnel. Ces partis peuvent notamment de quantifier et de visualiser certains aspects du paysage politique européen actuel.
 
+![Final plot](https://user-images.githubusercontent.com/115630365/203574022-d9f7fd77-6809-4237-ba88-09fa04f6911a.png)
+
+Ainsi ce graphique (crée par nous à partir des données) nous permet notamment de constater rapidement certains faits empiriques intéressants (si l’on accepte les classifications des auteurs de la PopuListe, évidemment). L’écrasante majorité des partis de la liste sont eurosceptiques, et presque la moitié populistes et eurosceptiques. Par ailleurs, les partis populistes et eurosceptiques sont majoritairement d’extrême droite, tandis que ceux exclusivement eurosceptiques sont majoritairement d’extrême-gauche; les partis populistes non-eurosceptiques, eux, ont tendance à ne pas être d’extrême-gauche ni d’extrême-droite… 
+
+
+![Populist votes in France](https://user-images.githubusercontent.com/115630365/203574026-14ad8232-b423-4a48-bb6c-dbb657fbf0a3.png)
+
+![Rplot](https://user-images.githubusercontent.com/115630365/203574030-5718b060-a203-4df9-ae43-ed5affb1585c.png)
+
+Ces visualisations issues des données nous permettent de rapidement faire un comparatif de l'évolution des partis populistes en Europe, et de constater que ce phenomène est protéiforme : ainsi, le developpement du populisme en Allemagne est entierement different de ce qu'on observe en France, en matiere de couleur politique de ces formations politiques.
 
