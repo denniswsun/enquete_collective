@@ -6,9 +6,9 @@ Ce jeu de données est le résultat d’une collaboration entre le journal angla
 
 ## II: Catégories representés dans la PopuList
 
-Le problème dans ce domaine d’études est qu’il n’existe pas un consensus autour de la définition du populisme. Dans quasiment chaque article, étude, livre sur ce sujet, nous pouvons constater la phrase: « le populisme est un concept essentiellement contesté » (Mudde, 2018; Moffitt, 2016; Akkerman et al. 2014). Jusqu’à présent, la plupart des études se servent d’une des quatres différentes conceptualisations de populisme: populisme en tant qu’idéologie, populisme en tant que discours, populisme en tant que stratégie et populisme en tant que style politique. Evidemment, les distinctions sont très importantes pour la catégorisation des partis et politiciens. Par exemple, il y a de nombreux leaders politiques qui utilisent un style que nous pouvons reconnaître comme « populiste » sans être forcément adhérent à une telle idéologie (Moffitt & Tormey (2014) citent comme exemples Tony Blair et George W Bush). Nous pourrions même dire que le domaine d’études populistes subit sa propre « crise de catégorisation ». 
+Le problème dans ce domaine d’études est qu’il n’existe pas un consensus autour de la définition du populisme. Dans quasiment chaque article, étude, livre sur ce sujet, nous pouvons constater la phrase: « le populisme est un concept essentiellement contesté » (Mudde, 2004; Moffitt & Tormey 2014; Akkerman et al. 2014). Jusqu’à présent, la plupart des études se servent d’une des quatres différentes conceptualisations de populisme: populisme en tant qu’idéologie, populisme en tant que discours, populisme en tant que stratégie et populisme en tant que style politique. Evidemment, les distinctions sont très importantes pour la catégorisation des partis et politiciens. Par exemple, il y a de nombreux leaders politiques qui utilisent un style que nous pouvons reconnaître comme « populiste » sans être forcément adhérent à une telle idéologie (Moffitt & Tormey (2014) citent comme exemples Tony Blair et George W Bush). Nous pourrions même dire que le domaine d’études populistes subit sa propre « crise de catégorisation ». 
 
-Malgré le manque d’un consensus, il y a une définition qui connaît plus de popularité depuis ces dernières années, à savoir celle du populisme en tant qu’idéologie. Nommé la définition « idéationnelle », cette conceptualisation soutient que le populisme est « une idéologie peu substantielle qui considère que la société se divise en deux camps homogènes et antagonistes, le ‘peuple pur’ et ‘l’élite corrompue’, et qui affirme que la politique devrait être l’expression de la volonté générale du peuple. » (Mudde 2018) 
+Malgré le manque d’un consensus, il y a une définition qui connaît plus de popularité depuis ces dernières années, à savoir celle du populisme en tant qu’idéologie. Nommé la définition « idéationnelle », cette conceptualisation soutient que le populisme est « une idéologie peu substantielle qui considère que la société se divise en deux camps homogènes et antagonistes, le ‘peuple pur’ et ‘l’élite corrompue’, et qui affirme que la politique devrait être l’expression de la volonté générale du peuple. » (Mudde 2004) 
 
 **Extrême-droite:**
 
@@ -61,20 +61,24 @@ Ces visualisations issues des données nous permettent de rapidement faire un co
 
 ## Bibliographie :
 
-Maestas, C. (2015). Expert surveys as a measurement tool: Challenges and new frontiers.
+Akkerman, A., Mudde, C., & Zaslove, A. (2014). 'How Populist Are the People? Measuring Populist Attitudes in Voters'. _Comparative Political Studies_, 47(9), 1324–1353.
 
-March, L. (2012). Radical Left Parties in Europe. London: Routledge.
+Maestas, C. (2015). _Expert surveys as a measurement tool: Challenges and new frontiers._
+
+March, L. (2012). _Radical Left Parties in Europe_. London: Routledge.
 
 Meijers, M. J., & Zaslove, A. (2021). Measuring Populism in Political Parties: Appraisal of a New Approach. Comparative Political Studies, 54(2), 372–407. https://doi.org/10.1177/0010414020938081
 
-Mudde, C. "Populism: An Ideational Approach" OxfordThe Oxford Handbook of Populism (2017) p. 27 – 47
+Moffitt, B., & Tormey, S. (2014). ‘Rethinking populism: Politics, mediatisation and political style’. _Political Studies_, 62(2), 381-97.
 
-Mudde, C. (2004). The Populist Zeitgeist. Government and Opposition, 39(4), 541-563.
+Mudde, C. 'Populism: An Ideational Approach' _The Oxford Handbook of Populism_(2017) p. 27 – 47
 
-Mudde, C. (2007). Populist Radical Right Parties in Europe. Cambridge: Cambridge University Press.
+Mudde, C. (2004). 'The Populist Zeitgeist.' _Government and Opposition_, 39(4), 541-563.
+
+Mudde, C. (2007). _Populist Radical Right Parties in Europe_. Cambridge: Cambridge University Press.
 
 Rooduijn, M., Van Kessel, S., Froio, C., Pirro, A., De Lange, S., Halikiopoulou, D., Lewis, P., Mudde, C. & Taggart, P. (2019). The PopuList: An Overview of Populist, Far Right, Far Left and Eurosceptic Parties in Europe. www.popu-list.org.
 
-Taggart, P., & Szczerbiak, A. (2004). Contemporary Euroscepticism in the party systems of the European Union candidate states of Central and Eastern Europe. European Journal of Political Research, 43(1), 1-27.
+Taggart, P., & Szczerbiak, A. (2004). 'Contemporary Euroscepticism in the party systems of the European Union candidate states of Central and Eastern Europe'. _European Journal of Political Research_, 43(1), 1-27.
 
 
