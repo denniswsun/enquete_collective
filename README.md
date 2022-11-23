@@ -2,11 +2,11 @@
 
 ## Contenus:
 
-1. [Introduction](https://github.com/denniswsun/enquete_collective/edit/main/README.md#i-introduction)
-2. [Catégories representées dans la PopuList](https://github.com/denniswsun/enquete_collective/edit/main/README.md#ii-cat%C3%A9gories-represent%C3%A9s-dans-la-populist)
-3. [Usages](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iii-usages)
-4. [Limites et critiques](https://github.com/denniswsun/enquete_collective/edit/main/README.md#iv-limites-et-critiques)
-5. [Visualisations](https://github.com/denniswsun/enquete_collective/edit/main/README.md#v-visualisations)
+1. [Introduction](#i-introduction)
+2. [Catégories representées dans la PopuList](#ii-cat%C3%A9gories-represent%C3%A9es-dans-la-populist)
+3. [Usages](#iii-usages)
+4. [Limites et critiques](#iv-limites-et-critiques)
+5. [Visualisations](#v-visualisations)
 
 
 ## I: Introduction 
