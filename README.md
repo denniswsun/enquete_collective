@@ -11,7 +11,7 @@
 
 ## I: Introduction 
 
-Ce jeu de données est le résultat d’une collaboration entre le journal anglais The Guardian et 35 politologues européens. A la suite d'événements tels que l'élection de Donald Trump et le référendum du Brexit en 2016, le populisme devient de plus en plus l’objet de discussions dans le champ politique. En 2019, The Guardian a rassemblé des politologues étudiant le populisme pour créer une liste des partis politiques populistes en Europe. Nous avons interviewé Gilles Ivaldi, spécialiste du populisme et un des contributeurs de la PopuList. Les citations viennent de cet entretien. 
+[La Populist](https://popu-list.org/) est le résultat d’une collaboration entre le journal anglais The Guardian et 35 politologues européens. A la suite d'événements tels que l'élection de Donald Trump et le référendum du Brexit en 2016, le populisme devient de plus en plus l’objet de discussions dans le champ politique. En 2019, The Guardian a rassemblé des politologues étudiant le populisme pour créer une liste des partis politiques populistes en Europe. Nous avons interviewé Gilles Ivaldi, spécialiste du populisme et un des contributeurs de la PopuList. Les citations viennent de cet entretien. 
 
 ## II: Catégories representées dans la PopuList
 
